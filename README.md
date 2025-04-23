@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0dded21e-7501-4903-9a83-b1c82a3e1282" width="100" alt=""/>
+</p>
 <!--
 **axellelanca/axellelanca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
