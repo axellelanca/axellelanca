@@ -6,9 +6,9 @@
 <h1 align="center">Hi, I'm Axelle 👩‍💻 | Développeuse Fullstack</h1>
 <p align="center">🇫🇷 Paris, France · 🧠 Passionate about code & design · 🌍 Open to remote collaborations</p>
 
-![🇫🇷 Voir mon CV](https://tonlien.com/cv-axellelanca-fr.pdf)
-![🇬🇧 View my Resume](https://tonlien.com/cv-axellelanca-en.pdf)
-
+<div align="center">
+  <a href="./cv-fr.pdf">🇫🇷 Voir mon CV</a>   |  <a href="./cv-en.pdf">🇬🇧 View my Resume</a>
+</div>
 
 ---
 
