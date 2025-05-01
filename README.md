@@ -118,6 +118,10 @@ I'm currently open to full-time or freelance opportunities.
   Built with Markdown, 💡 and way too much coffee.  
   <br/>© 2025 — Axelle Lança
 </p>
+<div align="center">
+  
+![Profile views](https://komarev.com/ghpvc/?username=axellelanca&color=8A2BE2&style=flat)
+</div>
 
 <!--
 **axellelanca/axellelanca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
